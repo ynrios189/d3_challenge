@@ -1,5 +1,3 @@
-function funcionaCosa() {
-
     let svgWidth = 960;
     let svgHeight = 500;
     
@@ -98,6 +96,3 @@ function funcionaCosa() {
     
     
     });
-    }
-    
-    funcionaCosa();
